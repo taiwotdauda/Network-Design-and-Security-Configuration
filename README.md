@@ -305,7 +305,7 @@ The key lesson is that **security controls should enforce the required restricti
 
 - **Location:** Scotland, UK
 - **Focus Areas:** IT Governance, Risk & Compliance (GRC), Cybersecurity, Networking, and IT Audit
-- **GitHub:** [Add your GitHub profile URL]
+- **GitHub:** [https://github.com/taiwotdauda]
 - **LinkedIn:** [https://www.linkedin.com/in/taiwo-dauda?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
 - **Email:** [taiwo.t.dauda@gmail.com]
 
